@@ -2,6 +2,10 @@
 
 This project is a Flask web application for predicting forest fire area using a trained regression model and user-provided weather/fire condition inputs.
 
+## Live Demo
+
+- 🚀 Live demo: https://web-production-cf5948.up.railway.app
+
 ## Project Structure
 
 - `application.py` - Flask application entry point.
