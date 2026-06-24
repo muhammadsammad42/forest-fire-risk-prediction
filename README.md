@@ -4,7 +4,7 @@ This project is a Flask web application for predicting forest fire area using a 
 
 ## Live Demo
 
-- 🚀 Live demo: https://web-production-cf5948.up.railway.app/predictdata
+- 🚀 Live demo: https://forest-fire-predictor.up.railway.app/predictdata
 
 ## Project Structure
 
